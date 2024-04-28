@@ -1,0 +1,3 @@
+A Silent Voice;This is a great movie about life and friendship.;/img/A-Silent-Voice.jpg
+Saw;A thrilling horror movie that keeps you on the edge of your seat.;/img/saw.jpg
+Dracula;Classic horror movie about the famous vampire.;/img/dracula.jpg
